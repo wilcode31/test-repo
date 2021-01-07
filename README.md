@@ -1,5 +1,9 @@
-# test-repo
-This is a test repository
-commit is a change in the code no matter how small it is
+#Introduction
 
-* TODO * Add more content
+This is a repository created by *Wilson*
+
+## Usage
+
+Run this command to execute the application:
+
+`python filename.py`
